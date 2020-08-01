@@ -5,7 +5,6 @@
 
   - 项目基于subweb：https://github.com/lzdnico/subweb
   - 项目基于subconverter：https://github.com/tindy2013/subconverter
-  - 请配合subweb配置文件版使用，示例地址：https://subweb.niconewbeee.tk/ini
 
  
 # 如何自定义
@@ -25,9 +24,7 @@
   - Pinkfong_MediaGroups示意图<br/>
   ![image](https://github.com/lzdnico/subconverteriniexample/blob/master/images/Pinkfong_MediaGroups.png) <br/>
 
-# 联系我
-   - 关注频道：https://t.me/niconewbeeeapi
-   - 有用的话，欢迎TG打赏: https://t.me/niconewbeeeapi/134
+
 
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
